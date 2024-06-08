@@ -13,5 +13,5 @@ A web-based game where users can play Rock Paper Scissors against the computer. 
 A web-based Tic Tac Toe game where users can play against another human player. Implemented using HTML, CSS, and JavaScript.
 
 
-Contributing
+
 Contributions are welcome. If you have any ideas or suggestions, please feel free to fork the repository, create a new branch, commit your changes, and open a pull request.
